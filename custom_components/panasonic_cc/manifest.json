@@ -2,7 +2,7 @@
     "domain": "panasonic_cc",
     "name": "Panasonic Comfort Cloud",
     "after_dependencies": ["http"],
-    "version": "2024.5.0",
+    "version": "2024.5.31",
     "config_flow": true,
     "documentation": "https://github.com/aceindy/panasonic_cc/",
     "dependencies": [],
